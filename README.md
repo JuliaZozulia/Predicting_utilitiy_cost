@@ -196,6 +196,10 @@ The developed model allows us to estimate how much more/less will a household co
 
 # Business applications of energy consumption predictions
 ## To estimate savings for consumer:
+Let’s imagine you are a homeowner trying to minimize your utility cost. Everyone knows that, for example, if you insulate your home well, your energy consumption will go down. But by how much? How much will I save per year? Is it worth the investment? What will allow to save more: installing new windows or changing heating equipment?
+
+The developed model allows us to estimate how much more/less will a household consume under new parameters. To estimate potential saving we need to use the model to predict current consumption with existing parameters. After that, we can change one or more characteristics and run prediction again, under new parameters, simulating updated state of the household.
+
 Let’s consider an example household: 
 ### One-story single-family detached house, 2553 sq ft, located in an urban area in Cold/Very Cold climate zone. 
 
